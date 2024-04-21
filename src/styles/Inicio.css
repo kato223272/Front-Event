@@ -1,0 +1,6 @@
+.CuadroLlenado{
+    background-color: rgba(135, 167, 248, 0.575);
+    border-radius: 10px;
+    width: 100%;
+    padding: 10%;
+}
